@@ -1,0 +1,27 @@
+# compiled code files
+*.pyc
+*.so
+
+# archive files
+*.zip
+*.tar.gz
+*.tar
+*.bz2
+*.zst
+*.xz
+
+# images
+*.jpg
+*.jpeg
+*.png
+
+# data
+*.json
+
+# nohup, text files
+*.out
+*.txt
+*.log
+
+# notebooks
+*.ipynb
